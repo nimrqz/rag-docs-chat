@@ -1,0 +1,14 @@
+[
+  {"question": "Qual o valor do auxílio mensal de home office?", "must_contain": "R$ 150,00"},
+  {"question": "Quantos dias presenciais por semana no regime híbrido?", "must_contain": "3 dias presenciais"},
+  {"question": "Quais dias são obrigatoriamente presenciais?", "must_contain": "terças e quintas"},
+  {"question": "Estagiário pode trabalhar remoto quantos dias?", "must_contain": "Estagiários"},
+  {"question": "Em quanto tempo devo avisar a TI se perder o notebook?", "must_contain": "24 horas"},
+  {"question": "Posso usar Wi-Fi público com o notebook da empresa?", "must_contain": "VPN"},
+  {"question": "Qual o horário de disponibilidade no Slack?", "must_contain": "10h às 16h"},
+  {"question": "Quanto recebo para comprar cadeira ou mesa?", "must_contain": "R$ 1.200,00"},
+  {"question": "Por quantos dias posso trabalhar de outra cidade?", "must_contain": "15 dias corridos"},
+  {"question": "Quem precisa aprovar horas extras?", "must_contain": "gestor"},
+  {"question": "Quem pode aderir ao regime híbrido depois de quantos dias de empresa?", "must_contain": "90 dias"},
+  {"question": "Posso trabalhar de outro país?", "must_contain": "jurídico"}
+]
